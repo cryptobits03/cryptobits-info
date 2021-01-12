@@ -1,6 +1,6 @@
 # Pancake History
 
-Check it out live: [https://pancakeswap.info/](https://pancakeswap.info/).
+Check it out live: [http://info.crypto-bits.net/](http://info.crypto-bits.net/).
 
 ### To Start Development
 
