@@ -1,4 +1,4 @@
-# Pancake History
+# Crypto Bits History
 
 Check it out live: [http://info.crypto-bits.net/](http://info.crypto-bits.net/).
 
